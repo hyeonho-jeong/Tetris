@@ -41,7 +41,7 @@ partial class Block
     BLOCKTYPE CurBlockType = BLOCKTYPE.BT_T;//This valuable is for rotate the block
     BLOCKDIR CurDirType = BLOCKDIR.BD_T;
 
-    //Block can't be made without game board screen, but the screen already in Program.cs 
+    //Block can't be made without gamdde board screen, but the screen already in Program.cs 
     //So just call null, not new
     TETRISSCREEN Screen = null;
     AccScreen NewAccScreen = null;

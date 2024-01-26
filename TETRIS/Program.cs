@@ -20,7 +20,7 @@ namespace Tetris
             
             while(true)
             {
-                Thread.Sleep(500);
+                Thread.Sleep(600);
                 
                 Console.Clear();//Make a terminal clear
                 NewSC.Render();//Showing the block with new area on a game board

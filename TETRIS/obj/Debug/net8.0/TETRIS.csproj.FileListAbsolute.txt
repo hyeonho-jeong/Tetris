@@ -12,3 +12,4 @@ C:\Users\ASUS\Desktop\Tetris\TETRIS\obj\Debug\net8.0\refint\TETRIS.dll
 C:\Users\ASUS\Desktop\Tetris\TETRIS\obj\Debug\net8.0\TETRIS.pdb
 C:\Users\ASUS\Desktop\Tetris\TETRIS\obj\Debug\net8.0\TETRIS.genruntimeconfig.cache
 C:\Users\ASUS\Desktop\Tetris\TETRIS\obj\Debug\net8.0\ref\TETRIS.dll
+C:\Users\ASUS\Desktop\Tetris\TETRIS\obj\Debug\net8.0\TETRIS.sourcelink.json
